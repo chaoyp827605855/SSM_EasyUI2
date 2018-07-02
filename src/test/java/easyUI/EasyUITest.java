@@ -13,4 +13,7 @@ public class EasyUITest {
         System.out.println("------版本冲突实验 AAA------");
     }
 
+    public void bb() {
+        System.out.println("------版本冲突实验 BBBB------");
+    }
 }
