@@ -35,6 +35,7 @@ public class UserController {
     @RequestMapping("/modify")
     @ResponseBody
     public void modify(User user){
+        System.out.println("I am in GitHub In the modify directly");
         us.modify(user);
     }
 
