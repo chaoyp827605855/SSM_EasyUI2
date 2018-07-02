@@ -41,6 +41,7 @@ public class UserController {
     @RequestMapping("/add")
     @ResponseBody
     public void add(User user){
+        System.out.println("-------------------------");
         us.add(user);
     }
 
