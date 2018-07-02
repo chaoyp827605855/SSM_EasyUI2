@@ -7,6 +7,8 @@ public class EasyUITest {
 
     public void fun1(){
         System.out.println("----fun1()分支合并-----");
+        System.out.println("++++++++++++++++++++++");
+        System.out.println("AAAAAAAAAAAAAAAAAAAAA");
     }
 
     public void fun2(){
