@@ -13,4 +13,8 @@ public class EasyUITest {
         System.out.println("----dev 分支-----");
     }
 
+    public void fun3(){
+        System.out.println("----deadasdasv 分支-----");
+    }
+
 }
